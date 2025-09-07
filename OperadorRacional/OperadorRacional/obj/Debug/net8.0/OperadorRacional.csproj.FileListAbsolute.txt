@@ -1,0 +1,15 @@
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\OperadorRacional\OperadorRacional\bin\Debug\net8.0\OperadorRacional.exe
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\OperadorRacional\OperadorRacional\bin\Debug\net8.0\OperadorRacional.deps.json
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\OperadorRacional\OperadorRacional\bin\Debug\net8.0\OperadorRacional.runtimeconfig.json
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\OperadorRacional\OperadorRacional\bin\Debug\net8.0\OperadorRacional.dll
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\OperadorRacional\OperadorRacional\bin\Debug\net8.0\OperadorRacional.pdb
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\OperadorRacional\OperadorRacional\obj\Debug\net8.0\OperadorRacional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\OperadorRacional\OperadorRacional\obj\Debug\net8.0\OperadorRacional.AssemblyInfoInputs.cache
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\OperadorRacional\OperadorRacional\obj\Debug\net8.0\OperadorRacional.AssemblyInfo.cs
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\OperadorRacional\OperadorRacional\obj\Debug\net8.0\OperadorRacional.csproj.CoreCompileInputs.cache
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\OperadorRacional\OperadorRacional\obj\Debug\net8.0\OperadorRacional.sourcelink.json
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\OperadorRacional\OperadorRacional\obj\Debug\net8.0\OperadorRacional.dll
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\OperadorRacional\OperadorRacional\obj\Debug\net8.0\refint\OperadorRacional.dll
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\OperadorRacional\OperadorRacional\obj\Debug\net8.0\OperadorRacional.pdb
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\OperadorRacional\OperadorRacional\obj\Debug\net8.0\OperadorRacional.genruntimeconfig.cache
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\OperadorRacional\OperadorRacional\obj\Debug\net8.0\ref\OperadorRacional.dll
