@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalcularAreaCirculo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce721c37ad3f51fd07c09e18504b3a86ece91d0a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c4329216756f83bf5d37917d78a3357c938a68c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalcularAreaCirculo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalcularAreaCirculo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
