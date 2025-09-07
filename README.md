@@ -1,3 +1,3 @@
 # Tareas-Desarrollo-de-Software-IV
 Gerardo Tejada Codigo de estudiante 15.
-Los ejercicio lo he guardado en la rama...
+Los ejercicio lo he divido en ramas.
