@@ -1,0 +1,15 @@
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\CalcularAreaCirculo\CalcularAreaCirculo\bin\Debug\net8.0\CalcularAreaCirculo.exe
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\CalcularAreaCirculo\CalcularAreaCirculo\bin\Debug\net8.0\CalcularAreaCirculo.deps.json
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\CalcularAreaCirculo\CalcularAreaCirculo\bin\Debug\net8.0\CalcularAreaCirculo.runtimeconfig.json
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\CalcularAreaCirculo\CalcularAreaCirculo\bin\Debug\net8.0\CalcularAreaCirculo.dll
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\CalcularAreaCirculo\CalcularAreaCirculo\bin\Debug\net8.0\CalcularAreaCirculo.pdb
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\CalcularAreaCirculo\CalcularAreaCirculo\obj\Debug\net8.0\CalcularAreaCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\CalcularAreaCirculo\CalcularAreaCirculo\obj\Debug\net8.0\CalcularAreaCirculo.AssemblyInfoInputs.cache
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\CalcularAreaCirculo\CalcularAreaCirculo\obj\Debug\net8.0\CalcularAreaCirculo.AssemblyInfo.cs
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\CalcularAreaCirculo\CalcularAreaCirculo\obj\Debug\net8.0\CalcularAreaCirculo.csproj.CoreCompileInputs.cache
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\CalcularAreaCirculo\CalcularAreaCirculo\obj\Debug\net8.0\CalcularAreaCirculo.sourcelink.json
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\CalcularAreaCirculo\CalcularAreaCirculo\obj\Debug\net8.0\CalcularAreaCirculo.dll
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\CalcularAreaCirculo\CalcularAreaCirculo\obj\Debug\net8.0\refint\CalcularAreaCirculo.dll
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\CalcularAreaCirculo\CalcularAreaCirculo\obj\Debug\net8.0\CalcularAreaCirculo.pdb
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\CalcularAreaCirculo\CalcularAreaCirculo\obj\Debug\net8.0\CalcularAreaCirculo.genruntimeconfig.cache
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\CalcularAreaCirculo\CalcularAreaCirculo\obj\Debug\net8.0\ref\CalcularAreaCirculo.dll

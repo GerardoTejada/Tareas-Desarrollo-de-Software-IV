@@ -1,0 +1,15 @@
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\VariablesImpYEx\VariablesImpYEx\bin\Debug\net8.0\VariablesImpYEx.exe
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\VariablesImpYEx\VariablesImpYEx\bin\Debug\net8.0\VariablesImpYEx.deps.json
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\VariablesImpYEx\VariablesImpYEx\bin\Debug\net8.0\VariablesImpYEx.runtimeconfig.json
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\VariablesImpYEx\VariablesImpYEx\bin\Debug\net8.0\VariablesImpYEx.dll
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\VariablesImpYEx\VariablesImpYEx\bin\Debug\net8.0\VariablesImpYEx.pdb
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\VariablesImpYEx\VariablesImpYEx\obj\Debug\net8.0\VariablesImpYEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\VariablesImpYEx\VariablesImpYEx\obj\Debug\net8.0\VariablesImpYEx.AssemblyInfoInputs.cache
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\VariablesImpYEx\VariablesImpYEx\obj\Debug\net8.0\VariablesImpYEx.AssemblyInfo.cs
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\VariablesImpYEx\VariablesImpYEx\obj\Debug\net8.0\VariablesImpYEx.csproj.CoreCompileInputs.cache
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\VariablesImpYEx\VariablesImpYEx\obj\Debug\net8.0\VariablesImpYEx.sourcelink.json
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\VariablesImpYEx\VariablesImpYEx\obj\Debug\net8.0\VariablesImpYEx.dll
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\VariablesImpYEx\VariablesImpYEx\obj\Debug\net8.0\refint\VariablesImpYEx.dll
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\VariablesImpYEx\VariablesImpYEx\obj\Debug\net8.0\VariablesImpYEx.pdb
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\VariablesImpYEx\VariablesImpYEx\obj\Debug\net8.0\VariablesImpYEx.genruntimeconfig.cache
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\VariablesImpYEx\VariablesImpYEx\obj\Debug\net8.0\ref\VariablesImpYEx.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CalcularAreaCirculo/1.0.0": {
+        "runtime": {
+          "CalcularAreaCirculo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalcularAreaCirculo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

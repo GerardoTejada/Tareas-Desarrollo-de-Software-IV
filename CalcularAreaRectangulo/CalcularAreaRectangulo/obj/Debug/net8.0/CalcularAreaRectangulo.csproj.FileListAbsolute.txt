@@ -1,0 +1,15 @@
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\CalcularAreaRectangulo\CalcularAreaRectangulo\bin\Debug\net8.0\CalcularAreaRectangulo.exe
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\CalcularAreaRectangulo\CalcularAreaRectangulo\bin\Debug\net8.0\CalcularAreaRectangulo.deps.json
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\CalcularAreaRectangulo\CalcularAreaRectangulo\bin\Debug\net8.0\CalcularAreaRectangulo.runtimeconfig.json
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\CalcularAreaRectangulo\CalcularAreaRectangulo\bin\Debug\net8.0\CalcularAreaRectangulo.dll
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\CalcularAreaRectangulo\CalcularAreaRectangulo\bin\Debug\net8.0\CalcularAreaRectangulo.pdb
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\CalcularAreaRectangulo\CalcularAreaRectangulo\obj\Debug\net8.0\CalcularAreaRectangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\CalcularAreaRectangulo\CalcularAreaRectangulo\obj\Debug\net8.0\CalcularAreaRectangulo.AssemblyInfoInputs.cache
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\CalcularAreaRectangulo\CalcularAreaRectangulo\obj\Debug\net8.0\CalcularAreaRectangulo.AssemblyInfo.cs
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\CalcularAreaRectangulo\CalcularAreaRectangulo\obj\Debug\net8.0\CalcularAreaRectangulo.csproj.CoreCompileInputs.cache
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\CalcularAreaRectangulo\CalcularAreaRectangulo\obj\Debug\net8.0\CalcularAreaRectangulo.sourcelink.json
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\CalcularAreaRectangulo\CalcularAreaRectangulo\obj\Debug\net8.0\CalcularAreaRectangulo.dll
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\CalcularAreaRectangulo\CalcularAreaRectangulo\obj\Debug\net8.0\refint\CalcularAreaRectangulo.dll
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\CalcularAreaRectangulo\CalcularAreaRectangulo\obj\Debug\net8.0\CalcularAreaRectangulo.pdb
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\CalcularAreaRectangulo\CalcularAreaRectangulo\obj\Debug\net8.0\CalcularAreaRectangulo.genruntimeconfig.cache
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\CalcularAreaRectangulo\CalcularAreaRectangulo\obj\Debug\net8.0\ref\CalcularAreaRectangulo.dll
