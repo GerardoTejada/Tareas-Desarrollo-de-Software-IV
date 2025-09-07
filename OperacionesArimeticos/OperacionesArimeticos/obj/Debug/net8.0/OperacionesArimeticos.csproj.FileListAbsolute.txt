@@ -1,0 +1,15 @@
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\OperacionesArimeticos\OperacionesArimeticos\bin\Debug\net8.0\OperacionesArimeticos.exe
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\OperacionesArimeticos\OperacionesArimeticos\bin\Debug\net8.0\OperacionesArimeticos.deps.json
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\OperacionesArimeticos\OperacionesArimeticos\bin\Debug\net8.0\OperacionesArimeticos.runtimeconfig.json
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\OperacionesArimeticos\OperacionesArimeticos\bin\Debug\net8.0\OperacionesArimeticos.dll
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\OperacionesArimeticos\OperacionesArimeticos\bin\Debug\net8.0\OperacionesArimeticos.pdb
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\OperacionesArimeticos\OperacionesArimeticos\obj\Debug\net8.0\OperacionesArimeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\OperacionesArimeticos\OperacionesArimeticos\obj\Debug\net8.0\OperacionesArimeticos.AssemblyInfoInputs.cache
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\OperacionesArimeticos\OperacionesArimeticos\obj\Debug\net8.0\OperacionesArimeticos.AssemblyInfo.cs
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\OperacionesArimeticos\OperacionesArimeticos\obj\Debug\net8.0\OperacionesArimeticos.csproj.CoreCompileInputs.cache
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\OperacionesArimeticos\OperacionesArimeticos\obj\Debug\net8.0\OperacionesArimeticos.sourcelink.json
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\OperacionesArimeticos\OperacionesArimeticos\obj\Debug\net8.0\OperacionesArimeticos.dll
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\OperacionesArimeticos\OperacionesArimeticos\obj\Debug\net8.0\refint\OperacionesArimeticos.dll
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\OperacionesArimeticos\OperacionesArimeticos\obj\Debug\net8.0\OperacionesArimeticos.pdb
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\OperacionesArimeticos\OperacionesArimeticos\obj\Debug\net8.0\OperacionesArimeticos.genruntimeconfig.cache
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\OperacionesArimeticos\OperacionesArimeticos\obj\Debug\net8.0\ref\OperacionesArimeticos.dll
