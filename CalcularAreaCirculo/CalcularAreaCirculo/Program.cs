@@ -7,9 +7,9 @@ const double Pi = 3.1416;
 Console.WriteLine("Calcular area del circulo");
 // PI * radio* radio
 
-Console.WriteLine("Ingrese el radio del circulo: ");
+Console.WriteLine("Ingrese el radio del circulo: "); // Entrada del radio
 radio = Convert.ToDouble(Console.ReadLine());
 
-resultado = Pi * (radio * radio);
+resultado = Pi * (radio * radio); // Operacion o calculo 
 
-Console.WriteLine("El resultado es: "+resultado);
+Console.WriteLine("El resultado es: "+resultado); // Salida de la respuesta 
