@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OperadorRacional")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43ceffea222b682e2c808ae1880bd8dfec70ff5b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bfebc55d7cdf55032aa78af8eeac35af85c86a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("OperadorRacional")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OperadorRacional")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
