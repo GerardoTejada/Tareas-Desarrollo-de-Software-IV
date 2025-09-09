@@ -1,0 +1,15 @@
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\ifexample\ifexample\bin\Debug\net8.0\ifexample.exe
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\ifexample\ifexample\bin\Debug\net8.0\ifexample.deps.json
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\ifexample\ifexample\bin\Debug\net8.0\ifexample.runtimeconfig.json
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\ifexample\ifexample\bin\Debug\net8.0\ifexample.dll
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\ifexample\ifexample\bin\Debug\net8.0\ifexample.pdb
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\ifexample\ifexample\obj\Debug\net8.0\ifexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\ifexample\ifexample\obj\Debug\net8.0\ifexample.AssemblyInfoInputs.cache
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\ifexample\ifexample\obj\Debug\net8.0\ifexample.AssemblyInfo.cs
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\ifexample\ifexample\obj\Debug\net8.0\ifexample.csproj.CoreCompileInputs.cache
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\ifexample\ifexample\obj\Debug\net8.0\ifexample.sourcelink.json
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\ifexample\ifexample\obj\Debug\net8.0\ifexample.dll
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\ifexample\ifexample\obj\Debug\net8.0\refint\ifexample.dll
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\ifexample\ifexample\obj\Debug\net8.0\ifexample.pdb
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\ifexample\ifexample\obj\Debug\net8.0\ifexample.genruntimeconfig.cache
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\ifexample\ifexample\obj\Debug\net8.0\ref\ifexample.dll

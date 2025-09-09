@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\ifexample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E93891-9E3E-4A14-8FDA-2AF7E3CBCA91}|ifexample\\ifexample.csproj|c:\\users\\gerad\\source\\repos\\tareas-desarrollo-de-software-iv\\ifexample\\ifexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E93891-9E3E-4A14-8FDA-2AF7E3CBCA91}|ifexample\\ifexample.csproj|solutionrelative:ifexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\ifexample\\ifexample\\Program.cs",
+              "RelativeDocumentMoniker": "ifexample\\Program.cs",
+              "ToolTip": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\ifexample\\ifexample\\Program.cs",
+              "RelativeToolTip": "ifexample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T14:05:20.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
