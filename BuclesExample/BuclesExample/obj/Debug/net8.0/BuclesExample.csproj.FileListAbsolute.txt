@@ -1,0 +1,15 @@
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\BuclesExample\BuclesExample\bin\Debug\net8.0\BuclesExample.exe
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\BuclesExample\BuclesExample\bin\Debug\net8.0\BuclesExample.deps.json
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\BuclesExample\BuclesExample\bin\Debug\net8.0\BuclesExample.runtimeconfig.json
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\BuclesExample\BuclesExample\bin\Debug\net8.0\BuclesExample.dll
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\BuclesExample\BuclesExample\bin\Debug\net8.0\BuclesExample.pdb
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\BuclesExample\BuclesExample\obj\Debug\net8.0\BuclesExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\BuclesExample\BuclesExample\obj\Debug\net8.0\BuclesExample.AssemblyInfoInputs.cache
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\BuclesExample\BuclesExample\obj\Debug\net8.0\BuclesExample.AssemblyInfo.cs
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\BuclesExample\BuclesExample\obj\Debug\net8.0\BuclesExample.csproj.CoreCompileInputs.cache
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\BuclesExample\BuclesExample\obj\Debug\net8.0\BuclesExample.sourcelink.json
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\BuclesExample\BuclesExample\obj\Debug\net8.0\BuclesExample.dll
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\BuclesExample\BuclesExample\obj\Debug\net8.0\refint\BuclesExample.dll
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\BuclesExample\BuclesExample\obj\Debug\net8.0\BuclesExample.pdb
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\BuclesExample\BuclesExample\obj\Debug\net8.0\BuclesExample.genruntimeconfig.cache
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\BuclesExample\BuclesExample\obj\Debug\net8.0\ref\BuclesExample.dll
