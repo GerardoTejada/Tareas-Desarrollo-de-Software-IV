@@ -1,0 +1,15 @@
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\refactWhile\refactWhile\bin\Debug\net8.0\refactWhile.exe
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\refactWhile\refactWhile\bin\Debug\net8.0\refactWhile.deps.json
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\refactWhile\refactWhile\bin\Debug\net8.0\refactWhile.runtimeconfig.json
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\refactWhile\refactWhile\bin\Debug\net8.0\refactWhile.dll
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\refactWhile\refactWhile\bin\Debug\net8.0\refactWhile.pdb
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\refactWhile\refactWhile\obj\Debug\net8.0\refactWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\refactWhile\refactWhile\obj\Debug\net8.0\refactWhile.AssemblyInfoInputs.cache
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\refactWhile\refactWhile\obj\Debug\net8.0\refactWhile.AssemblyInfo.cs
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\refactWhile\refactWhile\obj\Debug\net8.0\refactWhile.csproj.CoreCompileInputs.cache
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\refactWhile\refactWhile\obj\Debug\net8.0\refactWhile.sourcelink.json
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\refactWhile\refactWhile\obj\Debug\net8.0\refactWhile.dll
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\refactWhile\refactWhile\obj\Debug\net8.0\refint\refactWhile.dll
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\refactWhile\refactWhile\obj\Debug\net8.0\refactWhile.pdb
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\refactWhile\refactWhile\obj\Debug\net8.0\refactWhile.genruntimeconfig.cache
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\refactWhile\refactWhile\obj\Debug\net8.0\ref\refactWhile.dll
