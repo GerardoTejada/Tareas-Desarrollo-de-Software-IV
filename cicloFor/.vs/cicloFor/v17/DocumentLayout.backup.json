@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\cicloFor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34E1E6CA-E9AC-4452-8B1C-B6989EE4A0C7}|cicloFor\\cicloFor.csproj|c:\\users\\gerad\\source\\repos\\tareas-desarrollo-de-software-iv\\ciclofor\\ciclofor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E1E6CA-E9AC-4452-8B1C-B6989EE4A0C7}|cicloFor\\cicloFor.csproj|solutionrelative:ciclofor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\cicloFor\\cicloFor\\Program.cs",
+              "RelativeDocumentMoniker": "cicloFor\\Program.cs",
+              "ToolTip": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\cicloFor\\cicloFor\\Program.cs",
+              "RelativeToolTip": "cicloFor\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAcwCQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:20:35.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

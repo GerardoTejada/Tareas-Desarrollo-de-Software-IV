@@ -1,0 +1,15 @@
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\cicloFor\cicloFor\bin\Debug\net8.0\cicloFor.exe
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\cicloFor\cicloFor\bin\Debug\net8.0\cicloFor.deps.json
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\cicloFor\cicloFor\bin\Debug\net8.0\cicloFor.runtimeconfig.json
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\cicloFor\cicloFor\bin\Debug\net8.0\cicloFor.dll
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\cicloFor\cicloFor\bin\Debug\net8.0\cicloFor.pdb
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\cicloFor\cicloFor\obj\Debug\net8.0\cicloFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\cicloFor\cicloFor\obj\Debug\net8.0\cicloFor.AssemblyInfoInputs.cache
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\cicloFor\cicloFor\obj\Debug\net8.0\cicloFor.AssemblyInfo.cs
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\cicloFor\cicloFor\obj\Debug\net8.0\cicloFor.csproj.CoreCompileInputs.cache
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\cicloFor\cicloFor\obj\Debug\net8.0\cicloFor.sourcelink.json
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\cicloFor\cicloFor\obj\Debug\net8.0\cicloFor.dll
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\cicloFor\cicloFor\obj\Debug\net8.0\refint\cicloFor.dll
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\cicloFor\cicloFor\obj\Debug\net8.0\cicloFor.pdb
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\cicloFor\cicloFor\obj\Debug\net8.0\cicloFor.genruntimeconfig.cache
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\cicloFor\cicloFor\obj\Debug\net8.0\ref\cicloFor.dll

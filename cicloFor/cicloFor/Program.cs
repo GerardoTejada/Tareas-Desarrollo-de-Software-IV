@@ -1,13 +1,13 @@
 ﻿// See https://aka.ms/new-console-template for more information
 // See https://aka.ms/new-console-template for more information
+// See https://aka.ms/new-console-template for more information
 
 int totalJugador = 0;
 string message = "";
 int totalDealer = 0;
 string control = ""; // Controla la direccion del switch
 string controlWhile = ""; // Controla la repeticion de cartas
-bool gameControl = true; // control del bucle del juego
-bool controlInput = true;
+int gameControl = 0; // control del bucle del juego
 Random random = new Random(); // Clase para la funcion de random
 // Blackjack, Juntar 21 pidiendo cartas o
 // caso de tener menos de 21 tener mayor puntuacion
@@ -16,15 +16,28 @@ Random random = new Random(); // Clase para la funcion de random
 
 
 // Proceso
-
-while (gameControl)
+try
 {
-    if (controlInput)
+    Console.WriteLine("Ingrese cantidad a jugar: ");
+    gameControl = Convert.ToInt32(Console.ReadLine());
+    if (gameControl < 0)
     {
-        Console.WriteLine("Bienvenido al Casino");
-        Console.WriteLine("Escriba '21' para jugar al 21"); // Pide el string 21 para comenzar
-        control = Console.ReadLine();
+        Console.WriteLine("Ingrese numeros positivos");
     }
+}
+catch (Exception e)
+{
+    Console.WriteLine($"Error: {e.Message}");
+}
+
+
+for (int i = 0; i < gameControl; i++)
+{
+    totalJugador = 0;
+    totalDealer = 0;
+    Console.WriteLine("Bienvenido al Casino");
+    Console.WriteLine("Escriba '21' para jugar al 21"); // Pide el string 21 para comenzar
+    control = Console.ReadLine();
 
     switch (control)
     {
@@ -55,32 +68,11 @@ while (gameControl)
             }
             // Salida valida o invalida
             Console.WriteLine(message);
+            Console.WriteLine("\n\n");
             break;
         default:
             Console.WriteLine("Condicion invalida");
             break;
-    }
-    controlInput = false; // se desactiva la entrada para jugar
-    Console.WriteLine("¿Deseas salir? si/no: "); // Control de terminacion del juego 
-    string controlG = Console.ReadLine().ToLower();
-    if (controlG.Equals("si"))
-    {
-        gameControl = false;
-    }
-    else if (controlG.Equals("no"))
-    {
-        // Resetear datos
-        controlInput = true;
-        totalJugador = 0;
-        message = "";
-        totalDealer = 0;
-        control = "";
-        controlWhile = "";
-        gameControl = true;
-    }
-    else
-    {
-        Console.WriteLine("dato invalido");
     }
 }
 
