@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RetosCadenasC#/1.0.0": {
+        "runtime": {
+          "RetosCadenasC#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RetosCadenasC#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

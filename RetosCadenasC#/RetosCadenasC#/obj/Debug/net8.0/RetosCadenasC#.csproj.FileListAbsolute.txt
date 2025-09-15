@@ -1,0 +1,15 @@
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\RetosCadenasC#\RetosCadenasC#\bin\Debug\net8.0\RetosCadenasC#.exe
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\RetosCadenasC#\RetosCadenasC#\bin\Debug\net8.0\RetosCadenasC#.deps.json
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\RetosCadenasC#\RetosCadenasC#\bin\Debug\net8.0\RetosCadenasC#.runtimeconfig.json
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\RetosCadenasC#\RetosCadenasC#\bin\Debug\net8.0\RetosCadenasC#.dll
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\RetosCadenasC#\RetosCadenasC#\bin\Debug\net8.0\RetosCadenasC#.pdb
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\RetosCadenasC#\RetosCadenasC#\obj\Debug\net8.0\RetosCadenasC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\RetosCadenasC#\RetosCadenasC#\obj\Debug\net8.0\RetosCadenasC#.AssemblyInfoInputs.cache
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\RetosCadenasC#\RetosCadenasC#\obj\Debug\net8.0\RetosCadenasC#.AssemblyInfo.cs
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\RetosCadenasC#\RetosCadenasC#\obj\Debug\net8.0\RetosCadenasC#.csproj.CoreCompileInputs.cache
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\RetosCadenasC#\RetosCadenasC#\obj\Debug\net8.0\RetosCadenasC#.sourcelink.json
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\RetosCadenasC#\RetosCadenasC#\obj\Debug\net8.0\RetosCadenasC#.dll
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\RetosCadenasC#\RetosCadenasC#\obj\Debug\net8.0\refint\RetosCadenasC#.dll
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\RetosCadenasC#\RetosCadenasC#\obj\Debug\net8.0\RetosCadenasC#.pdb
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\RetosCadenasC#\RetosCadenasC#\obj\Debug\net8.0\RetosCadenasC#.genruntimeconfig.cache
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\RetosCadenasC#\RetosCadenasC#\obj\Debug\net8.0\ref\RetosCadenasC#.dll
