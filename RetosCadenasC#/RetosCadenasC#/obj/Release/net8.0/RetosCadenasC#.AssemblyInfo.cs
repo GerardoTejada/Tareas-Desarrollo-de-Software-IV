@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RetosCadenasC#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27f5c9c5d65c0813bbec587ed03366436b13fbf2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d002a3e27bca61808290536977bc3f57846121ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("RetosCadenasC#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RetosCadenasC#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

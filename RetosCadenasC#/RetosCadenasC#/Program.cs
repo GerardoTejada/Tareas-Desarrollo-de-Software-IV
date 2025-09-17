@@ -68,6 +68,7 @@ Console.WriteLine("==================================13=========================
 Console.WriteLine(cuentoCadena.Replace("Bitín","ProgramaX"));
 Console.WriteLine("==================================14===============================");
 // 14. Insert()
+
 // Inserta la palabra “(IMPORTANTE)” después de la palabra “firewall”. (en mi caso despues de "tesoro")
 int indexTesoro = cuentoCadena.IndexOf("tesoro") + "tesoro".Length + 1; // Se busca el indice final de la palabra tesoro en el cuento
 Console.WriteLine(cuentoCadena.Insert(indexTesoro, "(IMPORTANTE) "));
