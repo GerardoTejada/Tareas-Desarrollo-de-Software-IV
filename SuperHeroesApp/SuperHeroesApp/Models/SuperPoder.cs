@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SuperHeroesApp.Models
+{
+    class SuperPoder // Clase poder
+    {
+        public string Nombre;
+        public string Descripcion;
+        public NivelPoder Nivel;
+
+        // Metodo constructor n 
+        public SuperPoder()
+        {
+            Nivel = NivelPoder.NivelUno;
+        }
+
+    }
+}
