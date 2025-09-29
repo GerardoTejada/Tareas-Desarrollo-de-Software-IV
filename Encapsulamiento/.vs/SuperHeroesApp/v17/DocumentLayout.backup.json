@@ -1,27 +1,39 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\SuperHeroesApp\\",
+  "WorkspaceRootPath": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\Encapsulamiento\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98339913-AF58-4F36-A658-BE4CE4F471EB}|SuperHeroesApp\\SuperHeroesApp.csproj|c:\\users\\gerad\\source\\repos\\tareas-desarrollo-de-software-iv\\superheroesapp\\superheroesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98339913-AF58-4F36-A658-BE4CE4F471EB}|SuperHeroesApp\\SuperHeroesApp.csproj|c:\\users\\gerad\\source\\repos\\tareas-desarrollo-de-software-iv\\encapsulamiento\\superheroesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98339913-AF58-4F36-A658-BE4CE4F471EB}|SuperHeroesApp\\SuperHeroesApp.csproj|solutionrelative:superheroesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98339913-AF58-4F36-A658-BE4CE4F471EB}|SuperHeroesApp\\SuperHeroesApp.csproj|c:\\users\\gerad\\source\\repos\\tareas-desarrollo-de-software-iv\\superheroesapp\\superheroesapp\\models\\superpoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98339913-AF58-4F36-A658-BE4CE4F471EB}|SuperHeroesApp\\SuperHeroesApp.csproj|solutionrelative:superheroesapp\\models\\superpoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98339913-AF58-4F36-A658-BE4CE4F471EB}|SuperHeroesApp\\SuperHeroesApp.csproj|c:\\users\\gerad\\source\\repos\\tareas-desarrollo-de-software-iv\\encapsulamiento\\superheroesapp\\models\\superheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98339913-AF58-4F36-A658-BE4CE4F471EB}|SuperHeroesApp\\SuperHeroesApp.csproj|solutionrelative:superheroesapp\\models\\superheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98339913-AF58-4F36-A658-BE4CE4F471EB}|SuperHeroesApp\\SuperHeroesApp.csproj|c:\\users\\gerad\\source\\repos\\tareas-desarrollo-de-software-iv\\superheroesapp\\superheroesapp\\models\\superheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98339913-AF58-4F36-A658-BE4CE4F471EB}|SuperHeroesApp\\SuperHeroesApp.csproj|solutionrelative:superheroesapp\\models\\superheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98339913-AF58-4F36-A658-BE4CE4F471EB}|SuperHeroesApp\\SuperHeroesApp.csproj|c:\\users\\gerad\\source\\repos\\tareas-desarrollo-de-software-iv\\encapsulamiento\\superheroesapp\\models\\isuperheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98339913-AF58-4F36-A658-BE4CE4F471EB}|SuperHeroesApp\\SuperHeroesApp.csproj|solutionrelative:superheroesapp\\models\\isuperheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98339913-AF58-4F36-A658-BE4CE4F471EB}|SuperHeroesApp\\SuperHeroesApp.csproj|c:\\users\\gerad\\source\\repos\\tareas-desarrollo-de-software-iv\\encapsulamiento\\superheroesapp\\models\\heroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98339913-AF58-4F36-A658-BE4CE4F471EB}|SuperHeroesApp\\SuperHeroesApp.csproj|solutionrelative:superheroesapp\\models\\heroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98339913-AF58-4F36-A658-BE4CE4F471EB}|SuperHeroesApp\\SuperHeroesApp.csproj|c:\\users\\gerad\\source\\repos\\tareas-desarrollo-de-software-iv\\encapsulamiento\\superheroesapp\\models\\antiheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98339913-AF58-4F36-A658-BE4CE4F471EB}|SuperHeroesApp\\SuperHeroesApp.csproj|solutionrelative:superheroesapp\\models\\antiheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98339913-AF58-4F36-A658-BE4CE4F471EB}|SuperHeroesApp\\SuperHeroesApp.csproj|c:\\users\\gerad\\source\\repos\\tareas-desarrollo-de-software-iv\\encapsulamiento\\superheroesapp\\models\\superpoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98339913-AF58-4F36-A658-BE4CE4F471EB}|SuperHeroesApp\\SuperHeroesApp.csproj|solutionrelative:superheroesapp\\models\\superpoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedHeight": 200,
           "SelectedChildIndex": 3,
           "Children": [
             {
@@ -30,26 +42,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SuperPoder.cs",
-              "DocumentMoniker": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\SuperHeroesApp\\SuperHeroesApp\\Models\\SuperPoder.cs",
-              "RelativeDocumentMoniker": "SuperHeroesApp\\Models\\SuperPoder.cs",
-              "ToolTip": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\SuperHeroesApp\\SuperHeroesApp\\Models\\SuperPoder.cs",
-              "RelativeToolTip": "SuperHeroesApp\\Models\\SuperPoder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ISuperHeroe.cs",
+              "DocumentMoniker": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\Encapsulamiento\\SuperHeroesApp\\Models\\ISuperHeroe.cs",
+              "RelativeDocumentMoniker": "SuperHeroesApp\\Models\\ISuperHeroe.cs",
+              "ToolTip": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\Encapsulamiento\\SuperHeroesApp\\Models\\ISuperHeroe.cs",
+              "RelativeToolTip": "SuperHeroesApp\\Models\\ISuperHeroe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T23:52:12.624Z",
+              "WhenOpened": "2025-09-29T00:24:48.621Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "SuperHeroe.cs",
-              "DocumentMoniker": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\SuperHeroesApp\\SuperHeroesApp\\Models\\SuperHeroe.cs",
+              "DocumentMoniker": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\Encapsulamiento\\SuperHeroesApp\\Models\\SuperHeroe.cs",
               "RelativeDocumentMoniker": "SuperHeroesApp\\Models\\SuperHeroe.cs",
-              "ToolTip": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\SuperHeroesApp\\SuperHeroesApp\\Models\\SuperHeroe.cs",
+              "ToolTip": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\Encapsulamiento\\SuperHeroesApp\\Models\\SuperHeroe.cs",
               "RelativeToolTip": "SuperHeroesApp\\Models\\SuperHeroe.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-21T23:51:28.038Z",
               "EditorCaption": ""
@@ -58,13 +70,52 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\SuperHeroesApp\\SuperHeroesApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\Encapsulamiento\\SuperHeroesApp\\Program.cs",
               "RelativeDocumentMoniker": "SuperHeroesApp\\Program.cs",
-              "ToolTip": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\SuperHeroesApp\\SuperHeroesApp\\Program.cs",
+              "ToolTip": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\Encapsulamiento\\SuperHeroesApp\\Program.cs",
               "RelativeToolTip": "SuperHeroesApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-21T22:36:05.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AntiHeroe.cs",
+              "DocumentMoniker": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\Encapsulamiento\\SuperHeroesApp\\Models\\AntiHeroe.cs",
+              "RelativeDocumentMoniker": "SuperHeroesApp\\Models\\AntiHeroe.cs",
+              "ToolTip": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\Encapsulamiento\\SuperHeroesApp\\Models\\AntiHeroe.cs",
+              "RelativeToolTip": "SuperHeroesApp\\Models\\AntiHeroe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T23:30:14.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SuperPoder.cs",
+              "DocumentMoniker": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\Encapsulamiento\\SuperHeroesApp\\Models\\SuperPoder.cs",
+              "RelativeDocumentMoniker": "SuperHeroesApp\\Models\\SuperPoder.cs",
+              "ToolTip": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\Encapsulamiento\\SuperHeroesApp\\Models\\SuperPoder.cs",
+              "RelativeToolTip": "SuperHeroesApp\\Models\\SuperPoder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T23:52:12.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Heroe.cs",
+              "DocumentMoniker": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\Encapsulamiento\\SuperHeroesApp\\Models\\Heroe.cs",
+              "RelativeDocumentMoniker": "SuperHeroesApp\\Models\\Heroe.cs",
+              "ToolTip": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\Encapsulamiento\\SuperHeroesApp\\Models\\Heroe.cs",
+              "RelativeToolTip": "SuperHeroesApp\\Models\\Heroe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T23:50:22.087Z",
               "EditorCaption": ""
             }
           ]

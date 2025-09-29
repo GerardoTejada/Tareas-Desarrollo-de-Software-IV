@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\SuperHeroesApp",
-    "\\SuperHeroesApp\\SuperHeroesApp"
+    "\\Encapsulamiento",
+    "\\Encapsulamiento\\SuperHeroesApp",
+    "\\Encapsulamiento\\SuperHeroesApp\\Models"
   ],
+  "SelectedNode": "\\Encapsulamiento\\SuperHeroesApp\\Models\\SuperHeroe.cs",
   "PreviewInSolutionExplorer": false
 }

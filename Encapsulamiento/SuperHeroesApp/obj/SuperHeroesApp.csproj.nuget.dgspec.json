@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\SuperHeroesApp\\SuperHeroesApp\\SuperHeroesApp.csproj": {}
+    "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\Encapsulamiento\\SuperHeroesApp\\SuperHeroesApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\SuperHeroesApp\\SuperHeroesApp\\SuperHeroesApp.csproj": {
+    "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\Encapsulamiento\\SuperHeroesApp\\SuperHeroesApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\SuperHeroesApp\\SuperHeroesApp\\SuperHeroesApp.csproj",
+        "projectUniqueName": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\Encapsulamiento\\SuperHeroesApp\\SuperHeroesApp.csproj",
         "projectName": "SuperHeroesApp",
-        "projectPath": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\SuperHeroesApp\\SuperHeroesApp\\SuperHeroesApp.csproj",
+        "projectPath": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\Encapsulamiento\\SuperHeroesApp\\SuperHeroesApp.csproj",
         "packagesPath": "C:\\Users\\gerad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\SuperHeroesApp\\SuperHeroesApp\\obj\\",
+        "outputPath": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\Encapsulamiento\\SuperHeroesApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
