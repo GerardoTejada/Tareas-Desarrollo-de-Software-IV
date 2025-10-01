@@ -1,0 +1,14 @@
+C:\Users\Estudiantes\Desktop\Parcial1GerardoTejadaSoft4\Parcial1Software4Gerardo\bin\Debug\net8.0\Parcial1Software4Gerardo.exe
+C:\Users\Estudiantes\Desktop\Parcial1GerardoTejadaSoft4\Parcial1Software4Gerardo\bin\Debug\net8.0\Parcial1Software4Gerardo.deps.json
+C:\Users\Estudiantes\Desktop\Parcial1GerardoTejadaSoft4\Parcial1Software4Gerardo\bin\Debug\net8.0\Parcial1Software4Gerardo.runtimeconfig.json
+C:\Users\Estudiantes\Desktop\Parcial1GerardoTejadaSoft4\Parcial1Software4Gerardo\bin\Debug\net8.0\Parcial1Software4Gerardo.dll
+C:\Users\Estudiantes\Desktop\Parcial1GerardoTejadaSoft4\Parcial1Software4Gerardo\bin\Debug\net8.0\Parcial1Software4Gerardo.pdb
+C:\Users\Estudiantes\Desktop\Parcial1GerardoTejadaSoft4\Parcial1Software4Gerardo\obj\Debug\net8.0\Parcial1Software4Gerardo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiantes\Desktop\Parcial1GerardoTejadaSoft4\Parcial1Software4Gerardo\obj\Debug\net8.0\Parcial1Software4Gerardo.AssemblyInfoInputs.cache
+C:\Users\Estudiantes\Desktop\Parcial1GerardoTejadaSoft4\Parcial1Software4Gerardo\obj\Debug\net8.0\Parcial1Software4Gerardo.AssemblyInfo.cs
+C:\Users\Estudiantes\Desktop\Parcial1GerardoTejadaSoft4\Parcial1Software4Gerardo\obj\Debug\net8.0\Parcial1Software4Gerardo.csproj.CoreCompileInputs.cache
+C:\Users\Estudiantes\Desktop\Parcial1GerardoTejadaSoft4\Parcial1Software4Gerardo\obj\Debug\net8.0\Parcial1Software4Gerardo.dll
+C:\Users\Estudiantes\Desktop\Parcial1GerardoTejadaSoft4\Parcial1Software4Gerardo\obj\Debug\net8.0\refint\Parcial1Software4Gerardo.dll
+C:\Users\Estudiantes\Desktop\Parcial1GerardoTejadaSoft4\Parcial1Software4Gerardo\obj\Debug\net8.0\Parcial1Software4Gerardo.pdb
+C:\Users\Estudiantes\Desktop\Parcial1GerardoTejadaSoft4\Parcial1Software4Gerardo\obj\Debug\net8.0\Parcial1Software4Gerardo.genruntimeconfig.cache
+C:\Users\Estudiantes\Desktop\Parcial1GerardoTejadaSoft4\Parcial1Software4Gerardo\obj\Debug\net8.0\ref\Parcial1Software4Gerardo.dll
