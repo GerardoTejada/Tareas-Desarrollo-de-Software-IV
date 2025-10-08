@@ -47,4 +47,19 @@ Console.WriteLine("=============================================================
 //Imprimirlista(queries.LibrosConSkip());
 
 //Libros mas de 400 paginas seleccionando cuarto y tercer libro
-Imprimirlista(queries.SeleccionLibros());
+//Imprimirlista(queries.SeleccionLibros());
+
+// Cantidad de libros segun su cantidad de paginas 200 a 500
+Console.WriteLine($"Cantidad de libros entre 200 y 500 paginas con count: {queries.contarLibros()}");
+
+//Long count Cantidad de libros segun su cantidad de paginas 200 a 500
+Console.WriteLine($"Cantidad de libros entre 200 y 500 paginas con long count: {queries.contarLibrosLongCount()}");
+
+//Minimo de fechas de fechas de publicacion 
+Console.WriteLine($"Minimo de fechas de publicacion: {queries.minimoDeFechas()}");
+
+//Maximo de paginas de una coleccion de libros
+Console.WriteLine($"Maximo de paginas de una coleccion de libros: {queries.maximoDePaginas()}");
+
+//
+Console.WriteLine($"Maximo de paginas de una coleccion de libros: {queries.maximoDePaginas()}");

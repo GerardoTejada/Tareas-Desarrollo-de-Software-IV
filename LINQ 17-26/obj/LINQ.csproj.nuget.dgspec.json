@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gerad\\OneDrive\\Escritorio\\LINQ\\LINQ.csproj": {}
+    "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\LINQ 17-26\\LINQ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gerad\\OneDrive\\Escritorio\\LINQ\\LINQ.csproj": {
+    "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\LINQ 17-26\\LINQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gerad\\OneDrive\\Escritorio\\LINQ\\LINQ.csproj",
+        "projectUniqueName": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\LINQ 17-26\\LINQ.csproj",
         "projectName": "LINQ",
-        "projectPath": "C:\\Users\\gerad\\OneDrive\\Escritorio\\LINQ\\LINQ.csproj",
+        "projectPath": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\LINQ 17-26\\LINQ.csproj",
         "packagesPath": "C:\\Users\\gerad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gerad\\OneDrive\\Escritorio\\LINQ\\obj\\",
+        "outputPath": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\LINQ 17-26\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

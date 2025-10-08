@@ -70,6 +70,31 @@ public class LinqQueries
         return librosCollection.Take(3)
             .Select(p => new libros { Title = p.Title, PageCount = p.PageCount });
     }
+
+    public int contarLibros()
+    {
+        return librosCollection.Where(p => p.PageCount >= 200 && p.PageCount <= 500).Count();
+    }
+
+    public long contarLibrosLongCount()
+    {
+        return librosCollection.Where(p => p.PageCount >= 200 && p.PageCount <= 500).LongCount();
+    }
+
+    public DateTime minimoDeFechas()
+    {
+        return librosCollection.Min(p => p.PublishedDate);
+    }
+
+    public int maximoDePaginas()
+    {
+        return librosCollection.Max(p=> p.PageCount);
+    }
+
+    public Book menorQueCeroPaginas()
+    {
+        return librosCollection.Where(p => p.PageCount >0).MinBy(p => p.PageCount);
+    }
 }
 
 public class libros
