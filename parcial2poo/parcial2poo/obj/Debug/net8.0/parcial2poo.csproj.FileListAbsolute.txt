@@ -1,0 +1,15 @@
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\parcial2poo\parcial2poo\obj\Debug\net8.0\parcial2poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\parcial2poo\parcial2poo\obj\Debug\net8.0\parcial2poo.AssemblyInfoInputs.cache
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\parcial2poo\parcial2poo\obj\Debug\net8.0\parcial2poo.AssemblyInfo.cs
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\parcial2poo\parcial2poo\obj\Debug\net8.0\parcial2poo.csproj.CoreCompileInputs.cache
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\parcial2poo\parcial2poo\obj\Debug\net8.0\parcial2poo.sourcelink.json
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\parcial2poo\parcial2poo\bin\Debug\net8.0\parcial2poo.exe
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\parcial2poo\parcial2poo\bin\Debug\net8.0\parcial2poo.deps.json
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\parcial2poo\parcial2poo\bin\Debug\net8.0\parcial2poo.runtimeconfig.json
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\parcial2poo\parcial2poo\bin\Debug\net8.0\parcial2poo.dll
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\parcial2poo\parcial2poo\bin\Debug\net8.0\parcial2poo.pdb
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\parcial2poo\parcial2poo\obj\Debug\net8.0\parcial2poo.dll
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\parcial2poo\parcial2poo\obj\Debug\net8.0\refint\parcial2poo.dll
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\parcial2poo\parcial2poo\obj\Debug\net8.0\parcial2poo.pdb
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\parcial2poo\parcial2poo\obj\Debug\net8.0\parcial2poo.genruntimeconfig.cache
+C:\Users\gerad\source\repos\Tareas-Desarrollo-de-Software-IV\parcial2poo\parcial2poo\obj\Debug\net8.0\ref\parcial2poo.dll

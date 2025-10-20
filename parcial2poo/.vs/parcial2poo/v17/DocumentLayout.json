@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\parcial2poo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40E577CD-24A6-4FAA-AA7C-D3147A2633BC}|parcial2poo\\parcial2poo.csproj|c:\\users\\gerad\\source\\repos\\tareas-desarrollo-de-software-iv\\parcial2poo\\parcial2poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E577CD-24A6-4FAA-AA7C-D3147A2633BC}|parcial2poo\\parcial2poo.csproj|solutionrelative:parcial2poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E577CD-24A6-4FAA-AA7C-D3147A2633BC}|parcial2poo\\parcial2poo.csproj|c:\\users\\gerad\\source\\repos\\tareas-desarrollo-de-software-iv\\parcial2poo\\parcial2poo\\clases\\calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E577CD-24A6-4FAA-AA7C-D3147A2633BC}|parcial2poo\\parcial2poo.csproj|solutionrelative:parcial2poo\\clases\\calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E577CD-24A6-4FAA-AA7C-D3147A2633BC}|parcial2poo\\parcial2poo.csproj|c:\\users\\gerad\\source\\repos\\tareas-desarrollo-de-software-iv\\parcial2poo\\parcial2poo\\clases\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E577CD-24A6-4FAA-AA7C-D3147A2633BC}|parcial2poo\\parcial2poo.csproj|solutionrelative:parcial2poo\\clases\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E577CD-24A6-4FAA-AA7C-D3147A2633BC}|parcial2poo\\parcial2poo.csproj|c:\\users\\gerad\\source\\repos\\tareas-desarrollo-de-software-iv\\parcial2poo\\parcial2poo\\clases\\estudiantebecado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E577CD-24A6-4FAA-AA7C-D3147A2633BC}|parcial2poo\\parcial2poo.csproj|solutionrelative:parcial2poo\\clases\\estudiantebecado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E577CD-24A6-4FAA-AA7C-D3147A2633BC}|parcial2poo\\parcial2poo.csproj|c:\\users\\gerad\\source\\repos\\tareas-desarrollo-de-software-iv\\parcial2poo\\parcial2poo\\clases\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E577CD-24A6-4FAA-AA7C-D3147A2633BC}|parcial2poo\\parcial2poo.csproj|solutionrelative:parcial2poo\\clases\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E577CD-24A6-4FAA-AA7C-D3147A2633BC}|parcial2poo\\parcial2poo.csproj|c:\\users\\gerad\\source\\repos\\tareas-desarrollo-de-software-iv\\parcial2poo\\parcial2poo\\clases\\imostrable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E577CD-24A6-4FAA-AA7C-D3147A2633BC}|parcial2poo\\parcial2poo.csproj|solutionrelative:parcial2poo\\clases\\imostrable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMostrable.cs",
+              "DocumentMoniker": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\parcial2poo\\parcial2poo\\Clases\\IMostrable.cs",
+              "RelativeDocumentMoniker": "parcial2poo\\Clases\\IMostrable.cs",
+              "ToolTip": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\parcial2poo\\parcial2poo\\Clases\\IMostrable.cs",
+              "RelativeToolTip": "parcial2poo\\Clases\\IMostrable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T15:15:13.265Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Materia.cs",
+              "DocumentMoniker": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\parcial2poo\\parcial2poo\\Clases\\Materia.cs",
+              "RelativeDocumentMoniker": "parcial2poo\\Clases\\Materia.cs",
+              "ToolTip": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\parcial2poo\\parcial2poo\\Clases\\Materia.cs",
+              "RelativeToolTip": "parcial2poo\\Clases\\Materia.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T21:06:55.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstudianteBecado.cs",
+              "DocumentMoniker": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\parcial2poo\\parcial2poo\\Clases\\EstudianteBecado.cs",
+              "RelativeDocumentMoniker": "parcial2poo\\Clases\\EstudianteBecado.cs",
+              "ToolTip": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\parcial2poo\\parcial2poo\\Clases\\EstudianteBecado.cs",
+              "RelativeToolTip": "parcial2poo\\Clases\\EstudianteBecado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T21:06:53.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calificacion.cs",
+              "DocumentMoniker": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\parcial2poo\\parcial2poo\\Clases\\Calificacion.cs",
+              "RelativeDocumentMoniker": "parcial2poo\\Clases\\Calificacion.cs",
+              "ToolTip": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\parcial2poo\\parcial2poo\\Clases\\Calificacion.cs",
+              "RelativeToolTip": "parcial2poo\\Clases\\Calificacion.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwCMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T21:06:38.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\parcial2poo\\parcial2poo\\Program.cs",
+              "RelativeDocumentMoniker": "parcial2poo\\Program.cs",
+              "ToolTip": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\parcial2poo\\parcial2poo\\Program.cs",
+              "RelativeToolTip": "parcial2poo\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwCYAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T21:06:32.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\parcial2poo\\parcial2poo\\Clases\\Estudiante.cs",
+              "RelativeDocumentMoniker": "parcial2poo\\Clases\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\parcial2poo\\parcial2poo\\Clases\\Estudiante.cs",
+              "RelativeToolTip": "parcial2poo\\Clases\\Estudiante.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwCMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T15:16:37.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -7,12 +7,12 @@ using System.Threading.Tasks;
 
 namespace parcial2poo.Clases
 {
-    internal class Estudiante
+    internal class Estudiante : IMostrable
     {
         private string nombre;
         private string id;
         private string carrera;
-        private List<Calificacion> calificaciones;
+        private List<Calificacion> calificaciones = new();
 
         public string Nombre 
         {
@@ -41,21 +41,22 @@ namespace parcial2poo.Clases
 
         public List<Calificacion> Calificaciones
         {
-            get { return calificaciones; }
+            get => calificaciones ??= new List<Calificacion>();
+            set => calificaciones = value ?? new List<Calificacion>();
         }
 
         public Estudiante(string est, string id, string carr)
         {
-            this.Id = id;
-            this.Nombre = est;
-            this.Carrera = carr;
-        }
-        public Estudiante() { }
-        // Metodos
+             this.Id = id;
+             this.Nombre = est;
+             this.Carrera = carr; 
+         }
+
 
         public double CalcularPromedio()
-        {
-            double promedio = 0;
+        { 
+            if (Calificaciones == null || !Calificaciones.Any()) return 0.0;
+
             double numerador = Calificaciones.Sum(C => C.Nota * C.Materia.Creditos);
             double denomidar = Calificaciones.Sum(c => c.Materia.Creditos);
 
@@ -69,9 +70,10 @@ namespace parcial2poo.Clases
             }
         }
 
-        public virtual void getValues()
+        public virtual void MostrarDatos()
         {
-            Console.WriteLine($"Nombre: {Nombre}, ID: {Id}, Carrera: {Carrera}, Promedio: ");
+            Console.WriteLine($"Nombre: {Nombre}, ID: {Id}, Carrera: {Carrera}, Promedio: {CalcularPromedio()} ");
         }
+
     }
 }

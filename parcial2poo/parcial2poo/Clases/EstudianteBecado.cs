@@ -6,9 +6,14 @@ using System.Threading.Tasks;
 
 namespace parcial2poo.Clases
 {
-    internal class EstudianteBecado : Estudiante
+    internal class EstudianteBecado : Estudiante, IMostrable
     {
         private double porcentaje;
+
+        public EstudianteBecado(string est, string id, string carr) : base(est, id, carr)
+        {
+
+        }
 
         public double PorcentajeBeca {
             get 
@@ -29,9 +34,9 @@ namespace parcial2poo.Clases
             return matriculaBase * (1 - (PorcentajeBeca / 100.0));
         }
 
-        public override void getValues(double matriculaBase)
+        public override void MostrarDatos()
         {
-            Console.WriteLine($"Porcentaje de beca {PorcentajeBeca}, Matricula con descuento calculada: {CalcularMatriculaConDescuento(matriculaBase)} ");
+            Console.WriteLine($"Porcentaje de beca {PorcentajeBeca}");
         }
     }
 }

@@ -7,7 +7,7 @@ using System.Windows.Markup;
 
 namespace parcial2poo.Clases
 {
-    internal class Materia
+    internal class Materia : IMostrable
     {
         private string nombre;
         private string codigo;

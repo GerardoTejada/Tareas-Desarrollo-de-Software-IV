@@ -7,7 +7,7 @@ using System.Windows.Markup;
 
 namespace parcial2poo.Clases
 {
-    internal class Calificacion
+    internal class Calificacion : IMostrable
     {
         private Estudiante estudiante;
         private Materia materia;
@@ -31,16 +31,15 @@ namespace parcial2poo.Clases
             Nota = not;
         }
 
-        public double CalcularPuntos(Materia mat)
+        public double CalcularPuntos()
         {
-            return Nota * mat.Creditos;
-
+            return Nota * Materia.Creditos;
         }
-        public void MostrarDatos(Estudiante est, Materia mat)
+            
+
+        public void MostrarDatos()
         {
-            Console.WriteLine($"Nombre: {est.Nombre}, Materia: {mat.Nombre}, nota: {Nota}");
+            Console.WriteLine($"Nombre: {Estudiante}, Materia: {Materia}, nota: {Nota}");
         }
-
-
     }
 }

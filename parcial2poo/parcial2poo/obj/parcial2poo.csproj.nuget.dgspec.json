@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gerad\\OneDrive\\Escritorio\\ProtecVS\\parcial2poo\\parcial2poo\\parcial2poo.csproj": {}
+    "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\parcial2poo\\parcial2poo\\parcial2poo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gerad\\OneDrive\\Escritorio\\ProtecVS\\parcial2poo\\parcial2poo\\parcial2poo.csproj": {
+    "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\parcial2poo\\parcial2poo\\parcial2poo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gerad\\OneDrive\\Escritorio\\ProtecVS\\parcial2poo\\parcial2poo\\parcial2poo.csproj",
+        "projectUniqueName": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\parcial2poo\\parcial2poo\\parcial2poo.csproj",
         "projectName": "parcial2poo",
-        "projectPath": "C:\\Users\\gerad\\OneDrive\\Escritorio\\ProtecVS\\parcial2poo\\parcial2poo\\parcial2poo.csproj",
+        "projectPath": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\parcial2poo\\parcial2poo\\parcial2poo.csproj",
         "packagesPath": "C:\\Users\\gerad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gerad\\OneDrive\\Escritorio\\ProtecVS\\parcial2poo\\parcial2poo\\obj\\",
+        "outputPath": "C:\\Users\\gerad\\source\\repos\\Tareas-Desarrollo-de-Software-IV\\parcial2poo\\parcial2poo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
